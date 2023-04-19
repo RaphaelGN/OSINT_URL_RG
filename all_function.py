@@ -7,7 +7,7 @@ from Osint_href_lien_ext import *
 # dans le dossier cd osint-1234-R_G
 # pour lancer l'application  python all_function.py dans le terminal du
 
-URL_page = "https://www.ece.fr/"
+URL_page = "https://www.ena.fr"
 
 
 def main():
